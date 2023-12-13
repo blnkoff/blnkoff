@@ -3,6 +3,13 @@
 🔭 Hi, I'm Alexey. I'm software developer and one of the founders of [Croco Factory](https://t.me/crocofactory)
 
 [![Croco Logo](https://i.ibb.co/G5Pjt6M/logo.png)](https://t.me/crocofactory)
+
+### 📁 My python packages
+Here are my python package
+
+<img align="left" src="https://github.com/blnkoff/blnkoff/assets/112132140/75e00c27-3dd5-484e-9df2-cf3de467a752" alt="ads power logo"> [AdsPower Local API](https://pypi.org/project/adspower/)
+
+<img align="left" src="https://github.com/blnkoff/blnkoff/assets/112132140/248bd749-bed2-42ee-95ed-dbffdf62c795" width="25" alt="ethereum logo"> [EVM Wallet](https://pypi.org/project/evm-wallet/)
   
 ### 🛠 Language and tools
 
