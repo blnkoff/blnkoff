@@ -7,11 +7,13 @@
 ### 📁 My python packages
 Here are my python packages
 
-<img align="left" src="https://github.com/blnkoff/blnkoff/assets/112132140/248bd749-bed2-42ee-95ed-dbffdf62c795" width="25" alt="ethereum logo"> [EVM Wallet](https://pypi.org/project/evm-wallet/)
+<img align="left" src="https://github.com/blnkoff/blnkoff/assets/112132140/248bd749-bed2-42ee-95ed-dbffdf62c795" width="25" alt="Ethereum logo"> [EVM Wallet](https://pypi.org/project/evm-wallet/)
 
-<img align="left" src="https://github.com/blnkoff/blnkoff/assets/112132140/75e00c27-3dd5-484e-9df2-cf3de467a752" alt="ads power logo"> [AdsPower Local API](https://pypi.org/project/adspower/)
+<img align="left" src="https://github.com/blnkoff/blnkoff/assets/112132140/6b7555d0-3b5a-4c1d-9a3e-fe457a307d88" width="25" alt="Pytest logo"> [Pytest EVM](https://pypi.org/project/pytest-evm/)
 
-<img align="left" src="https://github.com/blnkoff/blnkoff/assets/112132140/b378aa3b-5207-4d76-b2e9-125eab8eaf11" width="25" alt="selenium logo"> [Croco Selenium](https://pypi.org/project/croco-selenium/)
+<img align="left" src="https://github.com/blnkoff/blnkoff/assets/112132140/75e00c27-3dd5-484e-9df2-cf3de467a752" alt="AdsPower logo"> [AdsPower Local API](https://pypi.org/project/adspower/)
+
+<img align="left" src="https://github.com/blnkoff/blnkoff/assets/112132140/b378aa3b-5207-4d76-b2e9-125eab8eaf11" width="25" alt="Selenium logo"> [Croco Selenium](https://pypi.org/project/croco-selenium/)
 
 
   
