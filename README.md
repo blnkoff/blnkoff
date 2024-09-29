@@ -1,6 +1,6 @@
 # Hi there 👋
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/CrocoFactory/.github/main/branding/logo/transparent.png" width="300">
+<img src="https://raw.githubusercontent.com/CrocoFactory/.github/main/branding/logo/bookmark_transparent.svg" width="300">
 </h1><br>
 
 🔭 Hi, I'm Alexey. I'm software developer and the founder of [Croco Factory](https://github.com/CrocoFactory)
