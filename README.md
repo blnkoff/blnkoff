@@ -1,7 +1,8 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/CrocoFactory/.github/main/branding/logo/bookmark_transparent.svg" height="80">
+</p>
+
 # Hi there 👋
-<h1 align="center">
-<img src="https://raw.githubusercontent.com/CrocoFactory/.github/main/branding/logo/bookmark_transparent.svg" width="300">
-</h1><br>
 
 🔭 Hi, I'm Alexey. I'm software developer and the founder of [Croco Factory](https://github.com/CrocoFactory)
 
