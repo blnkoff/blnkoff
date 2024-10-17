@@ -4,11 +4,11 @@
 
 # Hi there 👋
 
-🔭 Hi, I'm Alexey. I'm software developer and the founder of [Croco Factory](https://factorycroco.com/)
+🔭 Hi, I'm Alexey. I'm software developer and the founder of [Croco Factory](https://crocofactory.dev)
 
 ### 🐊 Croco Factory
 
-At [Croco Factory](https://factorycroco.com/) we specialize in developing robust libraries built on Web3.py and handy API wrapping packages.
+At [Croco Factory](https://crocofactory.dev) we specialize in developing robust libraries built on Web3.py and handy API wrapping packages.
 
 ### ✉️ Contact Me
 You can contact to me for questions:
