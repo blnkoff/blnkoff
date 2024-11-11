@@ -21,15 +21,3 @@ At [Croco Factory](https://github.com/CrocoFactory) we specialize in developing 
 ### Contact Me
 You can contact to me for questions:
 [axbelenkov@gmail.com](mailto:axbelenkov@gmail.com)
-
-
-
-
-
-
-
-
-
-
-
-
