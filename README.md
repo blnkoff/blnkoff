@@ -1,12 +1,18 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/CrocoFactory/.github/main/branding/logo/bookmark_transparent.svg" height="80">
-</p>
-
 # Hi there 👋
             
-🔭 Hi, I'm Alexey. I'm software developer and the founder of [Croco Factory](https://github.com/CrocoFactory)
+🔭 Hi, I'm Alexey. I'm Machine Learning Engineer and the founder of [Croco Factory](https://github.com/CrocoFactory)
+
+## 🤖 Machine Learning
+
+I actively work with machine learning, focusing on both classic and deep learning approaches:
+
+* 📊 **Data preprocessing** and feature engineering (Pandas, polars, PySpark)
+* 🧠 **Deep learning projects** (PyTorch, Image, audio classification)
+* 🎯 **Model training and evaluation** (Scikit-learn, CatBoost, XGBoost)
+* 🎧 **Speech/audio processing** using MFCCs and statistical analysis
+* 🧪 Applied ML in **crypto-related** tasks
          
-### 🥷 Sensei 
+## 🥷 Sensei 
 
 It's my Python framework that provides a quick way to build robust HTTP requests. Use type hints, to build requests, with 
 little or no implementation.
@@ -14,10 +20,6 @@ little or no implementation.
 - **Github:** https://github.com/CrocoFactory/sensei
 - **Docs:** https://sensei.crocofactory.dev
 
-### 🐊 Croco Factory
-
-At [Croco Factory](https://github.com/CrocoFactory) we specialize in developing robust libraries built on Web3.py and handy API wrapping packages.
-
-### Contact Me
+## Contact Me
 You can contact to me for questions:
 [axbelenkov@gmail.com](mailto:axbelenkov@gmail.com)
