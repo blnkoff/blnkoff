@@ -1,15 +1,10 @@
-# Hi there 👋
-            
-🔭 Hi, I'm Alexey. I'm Machine Learning Engineer and the founder of [Croco Factory](https://github.com/CrocoFactory)
-
 ## 🤖 Machine Learning
 
 I actively work with machine learning, focusing on both classic and deep learning approaches:
 
 * 📊 **Data preprocessing** and feature engineering (Pandas, polars, PySpark)
-* 🧠 **Deep learning projects** (PyTorch, Image, audio classification)
-* 🎯 **Model training and evaluation** (Scikit-learn, CatBoost, XGBoost)
-* 🎧 **Speech/audio processing** using MFCCs and statistical analysis
+* 🧠 **Deep learning projects** (Computer Vision, NLP)
+* 🎯 **Model training and evaluation** (PyTorch, Scikit-learn, CatBoost, XGBoost)
 * 🧪 Applied ML in **crypto-related** tasks
          
 ## 🥷 Sensei 
