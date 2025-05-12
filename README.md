@@ -3,7 +3,7 @@
 I actively work with machine learning, focusing on both classic and deep learning approaches:
 
 * 📊 **Data preprocessing** and feature engineering (Pandas, polars, PySpark)
-* 🧠 **Deep learning projects** (Computer Vision, NLP)
+* 🧠 **Deep learning projects** (NLP)
 * 🎯 **Model training and evaluation** (PyTorch, Scikit-learn, CatBoost, XGBoost)
 * 🧪 Applied ML in **crypto-related** tasks
          
