@@ -1,10 +1,8 @@
 # Hi, I'm Alexey Belenkov 👋
 
-I'm the founder of **[Alignes](https://alignes.app)** — an AI tech pack generator for apparel teams moving real styles into sampling.
+I'm an **Applied AI / ML Engineer** and founder of **[Alignes](https://alignes.app)** — an AI product that helps apparel teams turn garment photos, sketches, drawings, and notes into structured tech packs for sampling and production.
 
-Alignes helps turn garment photos, sketches, flat drawings, and notes into a complete structured tech pack with specs, measurements, BOM, construction, callouts, flat sketches, PDF export, and read-only sharing in one workflow.
-
-I work at the intersection of **machine learning, product engineering, and developer tools**.
+I work at the intersection of **AI systems, product engineering, and workflow automation**.
 
 ---
 
@@ -12,32 +10,38 @@ I work at the intersection of **machine learning, product engineering, and devel
 
 **[Alignes](https://alignes.app)** is AI tech pack software for apparel teams.
 
-The product is focused on reducing manual pre-production documentation work: instead of assembling tech packs from scattered references, notes, spreadsheets, and templates, teams can generate a structured first draft, review final details, and keep one current pack ready for export or sharing.
+It generates structured first drafts of tech packs with specs, measurements, BOM, construction details, callouts, flat sketches, PDF export, and read-only sharing.
 
-**Core areas:**
+My work on Alignes includes:
 
-- AI-generated structured tech packs from garment images and notes
-- Editable workspace for measurements, BOM, construction, callouts, artwork, and colorways
-- PDF preview, export, and read-only sharing
-- Lightweight workflow between manual tech pack assembly and heavy PLM systems
+* AI system design for structured document generation
+* Product strategy and workflow design
+* Backend and product engineering
+* Evaluation and quality-control loops for AI outputs
+* User feedback and product iteration
 
 Links:
 
-- 🌐 **Website:** [Alignes](https://alignes.app)
-- 📄 **Sample tech pack:** [View sample](https://alignes.app/sample-techpack)
-- 🚀 **Create your first tech pack:** [Get started](https://alignes.app/register)
+* 🌐 Website: [alignes.app](https://alignes.app)
+* 📄 Sample tech pack: [View sample](https://alignes.app/sample-techpack)
+* 🚀 Get started: [Create your first tech pack](https://alignes.app/register)
 
 ---
 
-## 🤖 Machine Learning & Engineering
+## 🤖 Applied AI & Engineering
 
-I actively work with machine learning, focusing on both classic and deep learning approaches:
+I build AI-powered workflows that combine machine learning, backend systems, and product experience.
 
-- 📊 Data preprocessing and feature engineering with **Pandas**, **polars**, and **PySpark**
-- 🧠 Deep learning projects, especially in **NLP**
-- 🎯 Model training and evaluation with **PyTorch**, **Scikit-learn**, **CatBoost**, and **XGBoost**
-- 🧪 Applied ML in crypto-related tasks
-- 🛠 Backend and product engineering for AI-powered workflows
+Areas I work with:
+
+* LLM, NLP, and multimodal AI workflows
+* Structured generation and document automation
+* Data preprocessing with **Pandas**, **Polars**, and **PySpark**
+* Model training and evaluation with **PyTorch**, **Scikit-learn**, **CatBoost**, and **XGBoost**
+* Python backend development
+* AI evaluation, validation, and feedback loops
+
+I'm especially interested in applied AI products where model quality, UX, reliability, and business value all matter.
 
 ---
 
@@ -45,13 +49,12 @@ I actively work with machine learning, focusing on both classic and deep learnin
 
 **Sensei** is my Python framework for building robust HTTP requests with type hints and little to no implementation overhead.
 
-- GitHub: [CrocoFactory/sensei](https://github.com/CrocoFactory/sensei)
-- Docs: [sensei.crocofactory.dev](https://sensei.crocofactory.dev)
+* GitHub: [CrocoFactory/sensei](https://github.com/CrocoFactory/sensei)
+* Docs: [sensei.crocofactory.dev](https://sensei.crocofactory.dev)
 
 ---
 
 ## Contact
 
-You can reach me here:
-
-- Email: [axbelenkov@gmail.com](mailto:axbelenkov@gmail.com)
+* Email: [axbelenkov@gmail.com](mailto:axbelenkov@gmail.com)
+* LinkedIn: [linkedin.com/in/axbelenkov](https://www.linkedin.com/in/axbelenkov/)
