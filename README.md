@@ -1,6 +1,6 @@
 # Hi, I'm Alexey Belenkov 👋
 
-I'm an **Applied ML / AI Engineer**.
+I'm an **ML / AI Engineer**.
 
 ## 🥷 Sensei
 
