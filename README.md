@@ -9,8 +9,6 @@ I'm an **Applied ML / AI Engineer**.
 * GitHub: [CrocoFactory/sensei](https://github.com/CrocoFactory/sensei)
 * Docs: [sensei.crocofactory.dev](https://sensei.crocofactory.dev)
 
----
-
 ## Contact
 
 * Email: [axbelenkov@gmail.com](mailto:axbelenkov@gmail.com)
